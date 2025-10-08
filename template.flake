@@ -1,0 +1,7 @@
+*PERSON asdf*
+    U32 age
+    U32 ears DEF *2*
+    CHAR gender
+    CHAR * name
+    CHAR *10* middle_name DEF *jack*
+    
